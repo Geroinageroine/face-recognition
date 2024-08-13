@@ -1,0 +1,9 @@
+**/models
+**/facenet-pytorch
+**/keras-facenet
+*.npz
+*.pt
+*.pkl
+*.pickle
+*.html
+*.pdf
